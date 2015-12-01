@@ -11,7 +11,8 @@ pre code {
   color: #333;
 }
 
-pre .comment {
+pre .comment,
+pre .err {
   color: #998;
   font-style: italic
 }

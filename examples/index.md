@@ -374,7 +374,7 @@ If the server cannot parse the request as valid JSON, including
 `source` doesn't make sense (because there's no JSON document for `source` to
 refer to). Here's how the server might respond to an invalid JSON document:
 
-```
+```json
 {
   "errors": [{
     "status": "400",

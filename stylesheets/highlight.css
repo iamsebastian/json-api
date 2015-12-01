@@ -10,7 +10,8 @@ pre code {
   padding: 0.5em;
   color: #333; }
 
-pre .comment {
+pre .comment,
+pre .err {
   color: #998;
   font-style: italic; }
 

@@ -130,7 +130,7 @@ make some sort of profile page on your site, such as
 `http://api.example.com/profile`, and then include it in the `meta` key of
 your responses:
 
-```text
+```http
 GET http://api.example.com/posts
 
 {
